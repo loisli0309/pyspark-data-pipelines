@@ -2,6 +2,7 @@
 venv/
 .venv/
 spark_venv/
+venv_ML/
 
 .vscode/
 
