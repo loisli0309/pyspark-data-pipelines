@@ -3,6 +3,8 @@ venv/
 .venv/
 spark_venv/
 
+.vscode/
+
 # Python cache
 __pycache__/
 *.pyc
@@ -13,6 +15,5 @@ spark-warehouse/
 # OS
 .DS_Store
 Thumbs.db
-
-data/
+ 
 logs/
